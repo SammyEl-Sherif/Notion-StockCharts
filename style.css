@@ -35,7 +35,7 @@ body {
 }
 .light {
   color: rgba(0, 0, 0, 0.9);
-  background-color: #ffffff !important;
+  background-color: #191919 !important;
 }
 .dark {
   color: rgba(255, 255, 255, 0.9);
