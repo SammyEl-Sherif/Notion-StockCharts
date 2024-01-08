@@ -10,7 +10,7 @@ body {
 .settings {
   text-align: center;
   border-color: 1px;
-  background-color: #eee;
+  background-color: #191919;
   position: fixed;
   right: 0;
   bottom: 0;
@@ -34,12 +34,12 @@ body {
   font-size: 2rem;
 }
 .light {
-  color: rgba(0, 0, 0, 0.9);
+  color: rgba(255, 255, 255, 0.9);
   background-color: #191919 !important;
 }
 .dark {
   color: rgba(255, 255, 255, 0.9);
-  background-color: rgb(47, 52, 55) !important;
+  background-color: #191919 !important;
 }
 /* Hide offscreen */
 .dark #light {
